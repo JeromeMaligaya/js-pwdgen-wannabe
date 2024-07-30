@@ -29,5 +29,6 @@ console.log(resultElement)
     const message = `la tua nuova password: ${pwUser}`
 // fine
 
-
+// 4.generazione output
+resultElement.innerText = message;
 
