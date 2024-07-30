@@ -12,7 +12,7 @@ console.log(resultElement)
     // chiedo all'utente il suo cognome
     const userSurname = prompt('Digita il tuo cognome', 'Maligaya');
     console.log(userSurname)
-    // chiedo all'utente il suo nome
+    // chiedo all'utente il suo colore preferito
     const userColor = prompt('Digita il tuo colore', 'White');
     console.log(userColor)
 // fine
